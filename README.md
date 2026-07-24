@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Exchange Pipeline
 
 ## 概要
@@ -50,5 +49,3 @@ MART
 python exchange_pipeline.py
 ```
 =======
-# exchange_pipeline
->>>>>>> 
