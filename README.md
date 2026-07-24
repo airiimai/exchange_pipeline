@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exchange Pipeline
 
 ## 概要
@@ -48,9 +49,6 @@ MART
 ```bash
 python exchange_pipeline.py
 ```
-
-## 今後追加予定
-
-- Tableauによる可視化
-- 為替変動率分析
-- ダッシュボード作成
+=======
+# exchange_pipeline
+>>>>>>> 
